@@ -19,4 +19,4 @@
 
 <h3>Threat Map Live On Attacks Being Attempt</h3>
 
-![HoneyPot_05](https://github.com/Keepcodingjoni619/HoneyPot_Hosted_In_The_Cloud/assets/82996237/efe2bd43-4b6d-4ae6-ac09-4b5c8f40539e)
+![HoneyPot_06](https://github.com/Keepcodingjoni619/HoneyPot_Hosted_In_The_Cloud/assets/82996237/e2e15bab-ace2-4030-aceb-08045b029f63)
