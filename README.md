@@ -13,7 +13,7 @@
   <li>Configure Ports Inside Azure of Incoming & Outgoing Connection To Port</li>
   <li>Establish A Remote Connection Through PuTTY</li>
   <li>Log In And Run Linux Commands To Update Package List and Upgrades In the System</li>
-  <li></li>
+  <li>T-Pot Honey Pot Installer Will Download</li>
   
 </ul>
 
@@ -35,6 +35,8 @@
         <li>cd tpotce/iso/installer/</li>
         <li> ./install.sh --type=user</li>
         <li>Run As Root: sudo ./install.sh --type=user</li>
+        <li>T-Pot Installer Will Download and Set to Standard</li>
+        <li>Apply Credential</li>
       </ul>
   </li>
 </ul>
