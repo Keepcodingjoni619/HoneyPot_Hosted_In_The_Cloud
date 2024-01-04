@@ -3,6 +3,17 @@
 <p>A HoneyPot in security is a mechanism used to create decoy/virtual trap to lure attackers.</p>
 <p>It's intentionally compromises a computer system that allows attackers to exploit vulnerabilities for study to improve security policies</p>
 
+<h3>Project Purpose</h3>
+<p>Help develop practical knowledge of threat detection through the active monitoring and analysis of a HoneyPot</p>
+
+<h3>Objective</h3>
+<ul>
+  <li>Create A Virtual Machine Through Azure</li>
+  <li>Download Putty</li>
+  <li>Configure Ports Inside Azure of Incoming & Outgoing Connection To Port</li>
+  <li></li>
+</ul>
+
 ![HoneyPot_01](https://github.com/Keepcodingjoni619/HoneyPot_Hosted_In_The_Cloud/assets/82996237/732efbce-5648-45ce-97bd-796be7874cc1)
 
 
