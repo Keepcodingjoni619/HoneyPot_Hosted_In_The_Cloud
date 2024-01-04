@@ -9,9 +9,12 @@
 <h3>Objective</h3>
 <ul>
   <li>Create A Virtual Machine Through Azure</li>
-  <li>Download Putty</li>
+  <li>Download PuTTY</li>
   <li>Configure Ports Inside Azure of Incoming & Outgoing Connection To Port</li>
+  <li>Establish A Remote Connection Through PuTTY</li>
+  <li>Log In And Run Linux Commands To Update Package List and Upgrades In the System</li>
   <li></li>
+  
 </ul>
 
 ![HoneyPot_01](https://github.com/Keepcodingjoni619/HoneyPot_Hosted_In_The_Cloud/assets/82996237/732efbce-5648-45ce-97bd-796be7874cc1)
@@ -19,6 +22,22 @@
 
 ![HoneyPot_02](https://github.com/Keepcodingjoni619/HoneyPot_Hosted_In_The_Cloud/assets/82996237/353a5428-7296-4bca-a0eb-42aac25b49da)
 
+<h3>Sign In Through PuTTY</h3>
+<p>Run Commands: </p>
+<ul>
+  <li>sudo apt update</li>
+  <li>sudo apt upgrade -y</li>
+  <li>sudo apt install git</li>
+  <li>Confirm (YES)</li>
+  <li>
+      <ul>
+        <li>git clone https://github.com/telekom-security/tpotce</li>
+        <li>cd tpotce/iso/installer/</li>
+        <li> ./install.sh --type=user</li>
+        <li>Run As Root: sudo ./install.sh --type=user</li>
+      </ul>
+  </li>
+</ul>
 
 ![HoneyPot_03](https://github.com/Keepcodingjoni619/HoneyPot_Hosted_In_The_Cloud/assets/82996237/d6ade1d4-4c13-405b-a24d-cd1ba854d086)
 
