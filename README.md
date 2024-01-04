@@ -20,3 +20,7 @@
 <h3>Threat Map Live On Attacks Being Attempt</h3>
 
 ![HoneyPot_06](https://github.com/Keepcodingjoni619/HoneyPot_Hosted_In_The_Cloud/assets/82996237/e2e15bab-ace2-4030-aceb-08045b029f63)
+
+<h3>Spiderweb Scan</h3>
+
+![HoneyPot_07](https://github.com/Keepcodingjoni619/HoneyPot_Hosted_In_The_Cloud/assets/82996237/634fca71-81c3-43b1-8eb5-e5da8f00ef2d)
