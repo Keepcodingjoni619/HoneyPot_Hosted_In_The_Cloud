@@ -1,6 +1,6 @@
 # HoneyPot_Hosted_In_The_Cloud
 <h3>What is a HoneyPot?🍯</h3>
-<p>A HoneyPot in security is a mechanism used to createa decoy/virtual trap to lure attackers.</p>
+<p>A HoneyPot in security is a mechanism used to create decoy/virtual trap to lure attackers.</p>
 <p>It's intentionally compromises a computer system that allows attackers to exploit vulnerabilities for study to improve security policies</p>
 
 ![HoneyPot_01](https://github.com/Keepcodingjoni619/HoneyPot_Hosted_In_The_Cloud/assets/82996237/732efbce-5648-45ce-97bd-796be7874cc1)
